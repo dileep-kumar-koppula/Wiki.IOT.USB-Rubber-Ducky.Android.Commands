@@ -19,7 +19,7 @@
 + Apps Shortcuts
   | Shortcuts | Output |
   |:---------:|:------:|
-  | Win + B | Broswer |
+  | Win + B | Browser |
   | Win + K | Calender |
   | Win + E | Email |
   | Win + S | Messages |
